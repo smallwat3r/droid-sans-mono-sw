@@ -8,3 +8,17 @@ Some characters have been modified which makes it easier to code.
 ![Alt Text](https://github.com/smallwat3r/droid-sans-mono-sw/blob/master/screenshot/screenshot2.png)  
 
 ![Alt Text](https://github.com/smallwat3r/droid-sans-mono-sw/blob/master/screenshot/screenshot.png)  
+
+### Installation
+Mac Os  
+```
+$ git clone https://github.com/smallwat3r/droid-sans-mono-sw.git && \
+      cp droid-sans-mono-sw/DroidSansMonoSW/DroidSansMonoSW.ttf ~/Library/Fonts
+```
+Ubuntu  
+```
+$ git clone https://github.com/smallwat3r/droid-sans-mono-sw.git && \
+      cp droid-sans-mono-sw/DroidSansMonoSW/DroidSansMonoSW.ttf ~/.local/share/fonts
+```  
+Manual
+In most OS, right click of the .TTF file, and click "Install".

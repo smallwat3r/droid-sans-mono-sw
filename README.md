@@ -8,6 +8,3 @@ Some characters have been modified which makes it easier to code.
 ![Alt Text](https://github.com/smallwat3r/droid-sans-mono-sw/blob/master/screenshot/screenshot2.png)  
 
 ![Alt Text](https://github.com/smallwat3r/droid-sans-mono-sw/blob/master/screenshot/screenshot.png)  
-
-![Alt Text](https://github.com/smallwat3r/droid-sans-mono-sw/blob/master/screenshot/screenshot3.png)  
-

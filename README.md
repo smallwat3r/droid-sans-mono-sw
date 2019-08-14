@@ -20,5 +20,5 @@ Ubuntu
 $ git clone https://github.com/smallwat3r/droid-sans-mono-sw.git && \
       cp droid-sans-mono-sw/DroidSansMonoSW/DroidSansMonoSW.ttf ~/.local/share/fonts
 ```  
-Manual
-In most OS, right click of the .TTF file, and click "Install".
+Manual  
+In most OS, right click of the .TTF file, and click "Install".  

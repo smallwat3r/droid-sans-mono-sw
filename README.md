@@ -19,7 +19,7 @@ $ wget -O ~/Library/Fonts/DroidSansMonoSW.ttf "https://github.com/smallwat3r/dro
 Debian / Ubuntu  
 ```
 $ mkdir -p ~/.local/share/fonts && \
-  wget -O ~/Library/Fonts/DroidSansMonoSW.ttf "https://github.com/smallwat3r/droid-sans-mono-sw/raw/master/DroidSansMonoSW/DroidSansMonoSW.ttf" && \
+  wget -O ~/.local/share/fonts/DroidSansMonoSW.ttf "https://github.com/smallwat3r/droid-sans-mono-sw/raw/master/DroidSansMonoSW/DroidSansMonoSW.ttf" && \
   fc-cache -vf
 ```  
 

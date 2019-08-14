@@ -1,6 +1,6 @@
 # Droid Sans Mono SW  
 
-Custom version of "Droid Sans Mono", improved for Programming.  
+Custom version of the font "Droid Sans Mono", improved for Programming.  
 
 Some characters have been modified which makes it easier to code.  
 (including parenthesis sizing, dotted zero, At sign, Dollar, Tilde etc.)  
